@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="menu_form_ok">OK</string>
+    <string name="form_nome">Nome</string>
+    <string name="form_endereco">Endereço</string>
+    <string name="form_phone">Telefone</string>
+    <string name="form_site">Site</string>
+    <string name="form_btn_save">Salvar</string>
+</resources>
